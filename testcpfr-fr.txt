@@ -1,8 +1,8 @@
 Test3
 s
-g
-a
+TestAfterReopen3
+TestAfterReopen3
 Test3
-g
+TestAfterReopen3
 Test3
 Test3
