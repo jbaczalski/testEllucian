@@ -1,5 +1,5 @@
-<?xml version='1.0' encoding='UTF-8'?>
-<root xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:xml="http://www.w3.org/XML/1998/namespace">
    <xsd:schema id="root">
       <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
       <xsd:element name="root" msdata:IsDataSet="true">
@@ -45,105 +45,104 @@
             </xsd:choice>
          </xsd:complexType>
       </xsd:element>
+      <resheader name="resmimetype">
+         <value>text/microsoft-resx</value>
+      </resheader>
+      <resheader name="version">
+         <value>2.0</value>
+      </resheader>
+      <resheader name="reader">
+         <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+      </resheader>
+      <resheader name="writer">
+         <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+      </resheader>
+      <data name="EventFormCtrl_DateAttended" xml:space="preserve">
+         <value>Date Attended</value>
+      </data>
+      <data name="EventFormCtrl_Description" xml:space="preserve">
+         <value>Description</value>
+      </data>
+      <data name="EventFormCtrl_EventLength" xml:space="preserve">
+         <value>Event Length</value>
+      </data>
+      <data name="EventFormCtrl_EventSite" xml:space="preserve">
+         <value>Event Web Site (URL)</value>
+      </data>
+      <data name="EventFormCtrl_EventTitle" xml:space="preserve">
+         <value>Event Title</value>
+      </data>
+      <data name="Pathways_AddContentItemSuccess" xml:space="preserve">
+         <value>Successfully Added Content Item</value>
+      </data>
+      <data name="Pathways_AdditionalContentSuccess" xml:space="preserve">
+         <value>Successfully marked as Additional Content</value>
+      </data>
+      <data name="TargetCtrl_YesAutopopulate" xml:space="preserve">
+         <value>Yes, autopopulate</value>
+      </data>
+      <data name="TargetForm_AutopopulateInfo" xml:space="preserve">
+         <value>Automatically fill this plan with suggested items.</value>
+      </data>
+      <data name="TargetForm_AutopopulateTitle" xml:space="preserve">
+         <value>Autopopulate</value>
+      </data>
+      <data name="TargetForm_Description" xml:space="preserve">
+         <value>Description</value>
+      </data>
+      <data name="TargetForm_IsEndorsedInfo" xml:space="preserve">
+         <value>If checked, an icon appears on the card to show you endorsed this.</value>
+      </data>
+      <data name="UserController_LastName" xml:space="preserve">
+         <value>Last Name</value>
+      </data>
+      <data name="UserController_NoLearningTracked" xml:space="preserve">
+         <value>hasn't tracked any learning yet.</value>
+      </data>
+      <data name="UserController_NoResults" xml:space="preserve">
+         <value>No Results Found</value>
+      </data>
+      <data name="UserController_NoResultsFound" xml:space="preserve">
+         <value>No results found.</value>
+      </data>
+      <data name="UserController_Opportunities" xml:space="preserve">
+         <value>Opportunities</value>
+      </data>
+      <data name="UserController_Overview" xml:space="preserve">
+         <value>Overview</value>
+      </data>
+      <data name="UserController_Pathways" xml:space="preserve">
+         <value>Pathways</value>
+      </data>
+      <data name="UserController_Progression" xml:space="preserve">
+         <value>Progression</value>
+      </data>
+      <data name="UserController_RecommendationsTitle" xml:space="preserve">
+         <value>Shared</value>
+      </data>
+      <data name="WelcomeEmail_ConsumerTitle2" xml:space="preserve">
+         <value>2. Learning has no boundaries.</value>
+      </data>
+      <data name="WelcomeEmail_ConsumerTitle3" xml:space="preserve">
+         <value>3. Make it count.</value>
+      </data>
+      <data name="WelcomeEmail_FindGroups" xml:space="preserve">
+         <value>Find groups to join</value>
+      </data>
+      <data name="WelcomeEmail_GetCertified" xml:space="preserve">
+         <value>Get your skills certified</value>
+      </data>
+      <data name="WelcomeEmail_OrgAltBuildYourSkills" xml:space="preserve">
+         <value>Notebook and pen icon</value>
+      </data>
+      <data name="WelcomeEmail_OrgAltCaptureYourLearning" xml:space="preserve">
+         <value>Device icon</value>
+      </data>
+      <data name="WelcomeEmail_OrgAltLearnWithOthers" xml:space="preserve">
+         <value>3 people and laptop icon</value>
+      </data>
+      <data name="WelcomeEmail_OrgButton" xml:space="preserve">
+         <value>Personalize your learning</value>
+      </data>
    </xsd:schema>
-   <resheader name="resmimetype">
-      <value>text/microsoft-resx</value>
-   </resheader>
-   <resheader name="version">
-      <value>2.0</value>
-   </resheader>
-   <resheader name="reader">
-      <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-   </resheader>
-   <resheader name="writer">
-      <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
-   </resheader>
-   <data name="EventFormCtrl_DateAttended" xml:space="preserve">
-      <value>Date Attended</value>
-   </data>
-   <data name="EventFormCtrl_Description" xml:space="preserve">
-      <value>Description</value>
-   </data>
-   <data name="EventFormCtrl_EventLength" xml:space="preserve">
-      <value>Event Length</value>
-   </data>
-   <data name="EventFormCtrl_EventSite" xml:space="preserve">
-      <value>Event Web Site (URL)</value>
-   </data>
-   <data name="EventFormCtrl_EventTitle" xml:space="preserve">
-      <value>Event Title</value>
-   </data>
-   <data name="Pathways_AddContentItemSuccess" xml:space="preserve">
-      <value>Successfully Added Content Item</value>
-   </data>
-   <data name="Pathways_AdditionalContentSuccess" xml:space="preserve">
-      <value>Successfully marked as Additional Content</value>
-   </data>
-   <data name="TargetCtrl_YesAutopopulate" xml:space="preserve">
-      <value>Yes, autopopulate</value>
-   </data>
-   <data name="TargetForm_AutopopulateInfo" xml:space="preserve">
-      <value>Automatically fill this plan with suggested items.</value>
-   </data>
-   <data name="TargetForm_AutopopulateTitle" xml:space="preserve">
-      <value>Autopopulate</value>
-   </data>
-   <data name="TargetForm_Description" xml:space="preserve">
-      <value>Description</value>
-   </data>
-   <data name="TargetForm_IsEndorsedInfo" xml:space="preserve">
-      <value>If checked, an icon appears on the card to show you endorsed this.</value>
-   </data>
-   <data name="UserController_LastName" xml:space="preserve">
-      <value>Last Name</value>
-   </data>
-   <data name="UserController_NoLearningTracked" xml:space="preserve">
-      <value>hasn't tracked any learning yet.</value>
-   </data>
-   <data name="UserController_NoResults" xml:space="preserve">
-      <value>No Results Found</value>
-   </data>
-   <data name="UserController_NoResultsFound" xml:space="preserve">
-      <value>No results found.</value>
-   </data>
-   <data name="UserController_Opportunities" xml:space="preserve">
-      <value>Opportunities</value>
-   </data>
-   <data name="UserController_Overview" xml:space="preserve">
-      <value>Overview</value>
-   </data>
-   <data name="UserController_Pathways" xml:space="preserve">
-      <value>Pathways</value>
-   </data>
-   <data name="UserController_Progression" xml:space="preserve">
-      <value>Progression</value>
-   </data>
-   <data name="UserController_RecommendationsTitle" xml:space="preserve">
-      <value>Shared</value>
-   </data>
-   <data name="WelcomeEmail_ConsumerTitle2" xml:space="preserve">
-      <value>2. Learning has no boundaries.</value>
-   </data>
-   <data name="WelcomeEmail_ConsumerTitle3" xml:space="preserve">
-      <value>3. Make it count.</value>
-   </data>
-   <data name="WelcomeEmail_FindGroups" xml:space="preserve">
-      <value>Find groups to join</value>
-   </data>
-   <data name="WelcomeEmail_GetCertified" xml:space="preserve">
-      <value>Get your skills certified</value>
-   </data>
-   <data name="WelcomeEmail_OrgAltBuildYourSkills" xml:space="preserve">
-      <value>Notebook and pen icon</value>
-   </data>
-   <data name="WelcomeEmail_OrgAltCaptureYourLearning" xml:space="preserve">
-      <value>Device icon</value>
-   </data>
-   <data name="WelcomeEmail_OrgAltLearnWithOthers" xml:space="preserve">
-      <value>3 people and laptop icon</value>
-   </data>
-   <data name="WelcomeEmail_OrgButton" xml:space="preserve">
-      <value>Personalize your learning</value>
-   </data>
- </xsd:schema>
 </root>
