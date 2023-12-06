@@ -1,11 +1,10 @@
 en:
-  greetings:
-    welcome: fsafasftest
-    goodbye: afsftesttest
-  menu:
-    home: fsafastesttest
-    about: fafatesttesta
-    contact: testtexttest
-  settings:
-    language: testtest
-    theme: Theme
+  configuration:
+    settings: sfafastest
+    options: fsafastest
+  testing:
+    instance: faftesttesttesttest
+    functionality: testtesttesttesttest
+  results:
+    success: testtesttesttest
+    projects_created: test
