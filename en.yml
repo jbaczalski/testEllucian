@@ -3,8 +3,8 @@ en:
     settings: sfafastest
     options: fsafastest
   testing:
-    instance: faf
-    functionality: test
+    instance: faftest
+    functionality: testtest
   results:
     success: test
     projects_created: Two projects were successfully created.
