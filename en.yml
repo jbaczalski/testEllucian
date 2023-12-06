@@ -1,7 +1,7 @@
 en:
   configuration:
     settings: sfafastest
-    options: fsafas
+    options: fsafastest
   testing:
     instance: faf
     functionality: test
