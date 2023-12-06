@@ -5,7 +5,7 @@ en:
   menu:
     home: fsafastest
     about: fafatest
-    contact: test
+    contact: testtext
   settings:
-    language: test
+    language: testtest
     theme: Theme
