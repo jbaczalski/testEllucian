@@ -1,0 +1,11 @@
+en:
+  greetings:
+    welcome: Welcome to our application!
+    goodbye: Goodbye, have a great day!
+  menu:
+    home: Home
+    about: About Us
+    contact: Contact Us
+  settings:
+    language: Language
+    theme: Theme
