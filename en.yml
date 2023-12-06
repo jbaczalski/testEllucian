@@ -1,0 +1,10 @@
+en:
+  configuration:
+    settings: Configuration Settings
+    options: Configuration Options
+  testing:
+    instance: Test Instance
+    functionality: Testing Functionality
+  results:
+    success: The configuration test was successful.
+    projects_created: Two projects were successfully created.
