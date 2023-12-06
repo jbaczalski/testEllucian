@@ -1,10 +1,10 @@
 en:
   configuration:
-    settings: Configuration Settings
-    options: Configuration Options
+    settings: sfafas
+    options: fsafas
   testing:
-    instance: Test Instance
-    functionality: Testing Functionality
+    instance: faf
+    functionality: test
   results:
-    success: The configuration test was successful.
+    success: test
     projects_created: Two projects were successfully created.
