@@ -1,0 +1,12 @@
+en:
+  git_connector:
+    version_difference: The version difference of the Git Connector
+    your_version: Your Version: 13.2
+    my_version: My Test Instance Version: 13.4
+  upgrade_guide:
+    request_sent: I have requested an upgrade guide from the administrators.
+    received_guide: I have received the following upgrade guide: {insert guide here}.
+    instructions: These instructions should help you upgrade your instance to version 13.4.
+  gratitude:
+    thanks_cooperation: Thank you for your cooperation and patience.
+    questions: If you have any questions, please do not hesitate to ask.
